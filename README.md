@@ -14,7 +14,7 @@ I'm a passionate **Software Developer** who loves creating innovative solutions 
 - 🌱 I'm currently learning **advanced cloud technologies and DevOps practices**
 - 👯 I'm looking to collaborate on **open source projects and innovative startups**
 - 💬 Ask me about **cloud, iot, web development, mobile apps, and software architecture**
-- 📫 How to reach me: **hmdilham@example.com]**
+- 📫 How to reach me: **hmdilham@gmail.com]**
 - ⚡ Fun fact: **I love solving complex problems and turning coffee into code and action!**
 
 ## 🛠️ Tech Stack
@@ -90,7 +90,7 @@ I'm a passionate **Software Developer** who loves creating innovative solutions 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/your-profile)
 [![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-website.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hmdilham@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hmdilham@gmail.com)
 
 </div>
 
@@ -109,13 +109,3 @@ I'm a passionate **Software Developer** who loves creating innovative solutions 
 - 🌐 Build scalable microservices applications
 - 📱 Develop cross-platform mobile applications
 - 🤖 Explore AI and machine learning integration
-
----
-
-<div align="center">
-  
-**Thanks for visiting my profile! Feel free to reach out if you want to collaborate on exciting projects! 🚀**
-
-![Visitor Count](https://profile-counter.glitch.me/hmdilham/count.svg)
-
-</div>
