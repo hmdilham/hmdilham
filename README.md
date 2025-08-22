@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** who loves creating innovative solutions and bringing ideas to life through code. I enjoy working on both frontend and backend technologies, always eager to learn and adapt to new challenges.
+I'm a passionate **DevOps, IOT and Software Developer** who loves creating innovative solutions and bringing ideas to life. I always eager to learn and adapt to new challenges.
 
 - 🔭 I'm currently working on **exciting Cloud Computing, IOT and Web application**
 - 🌱 I'm currently learning **advanced cloud technologies and DevOps practices**
