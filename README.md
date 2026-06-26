@@ -1,63 +1,83 @@
-# Hi there, I'm Ilham Kurniawan! 👋
+# Hi, I'm Ilham Kurniawan 👋
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=435&lines=DevOps+Engineer;IOT+Enthusiast;Software+Developer;Problem+Solver;Always+Learning+New+Things!)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=500&lines=SRE+%C3%97+IoT+%C3%97+AI+Automation;I+build+systems+that+run+themselves;DevSecOps+Engineer+%26+Educator;Cloud+%C3%97+Edge+%C3%97+Intelligence)
+
+[![Website](https://img.shields.io/badge/hmdilham.dev-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://hmdilham.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/hmdilham)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hmdilham@gmail.com)
 
 </div>
 
-## 🚀 About Me
+---
 
-I'm a passionate **DevOps, IOT and Software Developer** who loves creating innovative solutions and bringing ideas to life. I always eager to learn and adapt to new challenges.
+## 🧠 About Me
 
-- 🔭 I'm currently working on **exciting Cloud Computing, IOT and Web application**
-- 🌱 I'm currently learning **advanced cloud technologies and DevOps practices**
-- 👯 I'm looking to collaborate on **open source projects and innovative startups**
-- 💬 Ask me about **cloud, iot, web development, mobile apps, and software architecture**
-- 📫 How to reach me: **hmdilham@gmail.com]**
-- ⚡ Fun fact: **I love solving complex problems and turning coffee into code and action!**
+**SRE & DevSecOps Engineer** with a focus on building autonomous, self-healing systems at the intersection of Cloud, IoT, and AI.
+
+- 🏗️ Designing infrastructure that operates with minimal human intervention
+- 🤖 Building AI-powered automation — from smart home to enterprise workflows
+- 🎓 Lecturer & Trainer in Cloud Computing & IoT at higher education
+- 🌏 Based in Tangerang, Indonesia
+
+> *"I build systems that run themselves."*
+
+---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+### Core
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=white)
-![Bootsrap CSS](https://img.shields.io/badge/-Bootstrap_CSS-7807F7?style=flat-square&logo=Bootstap-CSS&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+### Cloud & DevSecOps
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-0B57D0?style=flat-square&logo=GoogleCloudPlatform-GCP&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![ALIYUN](https://img.shields.io/badge/-ALIYUN-F76700?style=flat-square&logo=AlibabaCloud-ALIYUN&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
+
+### AI & Automation
+![LangGraph](https://img.shields.io/badge/-LangGraph-FF6B6B?style=flat-square&logo=Python&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=AI&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?style=flat-square&logo=Home-Assistant&logoColor=white)
+![EMQX](https://img.shields.io/badge/-EMQX-660066?style=flat-square&logo=Eclipse-Mosquitto&logoColor=white)
+
+### IoT & Edge
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=Eclipse-Mosquitto&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white)
+![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat-square&logo=Node-RED&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| 🛒 **Shopping Agent** | LangGraph · Python · Playwright | Multi-agent AI system for automated product research & checkout on Online Shop |
+| 🏠 **Smart Home Automation** | Home Assistant · MQTT · Tuya | Self-hosted smart home with AI-powered automation — AC, security, energy monitoring |
+| 🤖 **AI Intelligence System** | Hermes · LLM · Cron | Personal AI chief-of-staff — daily intel briefing, general reminder, system monitoring |
+| ☁️ **Multi Cloud Hosting Platform** | HestiaCP · Nginx · GCP · AWS· Aliyun| Self-managed web hosting platform for schools & SMBs in Indonesia |
+| 📊 **WorldMonitor** | React · Vite · Systemd | Self-hosted real-time global intelligence dashboard (geopolitical + finance + infra) |
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![ilham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmdilham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Ilham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmdilham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmdilham&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -65,47 +85,22 @@ I'm a passionate **DevOps, IOT and Software Developer** who loves creating innov
 
 </div>
 
-## 🏆 GitHub Trophies
+---
 
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hmdilham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hmdilham&theme=tokyo-night&hide_border=true)
-
-</div>
-
-
-## 🤝 Connect with Me
+## 💭 Dev Quote
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/hmdilham)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/your-profile)
-[![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-website.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hmdilham@gmail.com)
-
-</div>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
-## 🎯 Current Goals
+---
 
-- 🔥 Contribute more to open source projects
-- 📚 Master advanced cloud architecture patterns
-- 🌐 Build scalable microservices applications
-- 📱 Develop cross-platform mobile applications
-- 🤖 Explore AI and machine learning integration
+<div align="center">
+
+**Open to collaboration on Cloud × IoT × AI projects**
+
+*Let's build systems that run themselves.*
+
+</div>
