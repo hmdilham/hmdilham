@@ -69,7 +69,6 @@
 | 🏠 **Smart Home Automation** | Home Assistant · MQTT · Tuya | Self-hosted smart home with AI-powered automation — AC, security, energy monitoring |
 | 🤖 **AI Intelligence System** | Hermes · LLM · Cron | Personal AI chief-of-staff — daily intel briefing, general reminder, system monitoring |
 | ☁️ **Multi Cloud Hosting Platform** | HestiaCP · Nginx · GCP · AWS· Aliyun| Self-managed web hosting platform for schools & SMBs in Indonesia |
-| 📊 **WorldMonitor** | React · Vite · Systemd | Self-hosted real-time global intelligence dashboard (geopolitical + finance + infra) |
 
 ---
 
